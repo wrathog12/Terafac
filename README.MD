@@ -49,8 +49,8 @@ FGVC requires distinguishing many visually similar classes (102 flower species i
 ├── level_2/               # Augmentation & fine-tuning notebooks/scripts
 ├── level_3/               # CBAM attention implementation
 ├── level_4/               # Soft-voting ensemble code
-├── level_5/               # Gradio/Hugging Face deployment assets (optional)
-├── models/                # Saved model weights (.pth)
+├── level_5/               # Gradio/Hugging Face deployment assets (LINK)[https://huggingface.co/spaces/wrathog12/Flowers-102-ensemble]
+├── models/                # Model weights are beyond 100 MB, cannot upload it through Git commands hence referencing drive Link(Link)[] (.pth)
 ├── results/               # Plots: accuracy curves, confusion matrices
 └── requirements.txt       # Python dependencies
 ```
