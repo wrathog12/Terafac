@@ -143,7 +143,7 @@ This project is provided under the MIT License. Update as needed for your use ca
 
 ## Contact
 
-For questions or collaboration, open an issue or contact the maintainer at: your.email@example.com
+For questions or collaboration, open an issue or contact the maintainer at: 2eze4abhishek@gmail.com
 
 ---
 
