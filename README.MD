@@ -4,6 +4,8 @@ Project: Flowers-102 — Multi-Level Image Classification
 
 # Flowers-102 — Multi-Level Image Classification
 
+[Gradio Space](https://huggingface.co/spaces/wrathog12/Flowers-102-ensemble)
+
 A concise and well-organized implementation of a five-level pipeline for fine-grained image classification on the Oxford Flowers-102 dataset. The project demonstrates progressive improvements using transfer learning, augmentation, attention modules, ensembling, and (optionally) deployment.
 
 ---
